@@ -1,4 +1,4 @@
-Diffing two Rembrandt prints.
+[Diffing two Rembrandt prints.](https://github.com/artsmia/ecce-homo/commit/67c7c2ede1a0af69a31ff58b65a893f9e0dfcd2b)
 
 ![animation of the 1653 and 1655 versions of Rembrandt's Ecce Homo](https://github.com/artsmia/ecce-homo/raw/master/ecce-homo.gif)
 
