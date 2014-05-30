@@ -1,5 +1,7 @@
 Diffing two Rembrandt prints.
 
+![animation of the 1653 and 1655 versions of Rembrandt's Ecce Homo](https://github.com/artsmia/ecce-homo/raw/master/ecce-homo.gif)
+
 ## [Ecce Homo, 1653](https://collections.artsmia.org/index.php?page=detail&id=9202)
 
 > In 1655, the year after Rembrandt and his mistress Hendrickje Stoffels
